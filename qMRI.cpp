@@ -1,5 +1,5 @@
 #include "pch.h"
-#include "QuantitativeMapAPI.h"
+#include "qMRI.h"
 #include<omp.h>
 
 /**
