@@ -1,4 +1,3 @@
- Software Application Name: Quantitative Neuromap Pro.
 	
  Programming Languages used: C++ with VTK and ITK dependencies.
  
